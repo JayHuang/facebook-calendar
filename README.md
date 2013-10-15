@@ -26,3 +26,7 @@ If you're using Chrome, you can open developer tools (F12) and paste this in:
     layOutDay([{start: 240, end: 370}, {start: 100, end: 200}, {start: 350, end: 620}, {start: 230, end: 700}]);
     
 The current layout will be replaced with the events provided.
+
+#Copyright and license
+
+Copyright 2013 Jay Huang under the MIT license.
