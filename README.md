@@ -27,6 +27,6 @@ If you're using Chrome, you can open developer tools (F12) and paste this in:
     
 The current layout will be replaced with the events provided.
 
-#Copyright and license
+###Copyright and license
 
 Copyright 2013 Jay Huang under the MIT license.
